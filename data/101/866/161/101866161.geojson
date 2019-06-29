@@ -16,19 +16,16 @@
     "mps:longitude":29.015551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u820d\u723e\u7533\u9f4a"
+    "name:deu_x_preferred":[
+        "Scherschenzi"
     ],
     "name:eng_x_preferred":[
         "Shershentsi"
     ],
-    "name:ger_x_preferred":[
-        "Scherschenzi"
-    ],
     "name:lav_x_preferred":[
         "\u0160er\u0161enci"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218er\u0219en\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Shershintsy"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u723e\u7533\u9f4a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101866161,
-    "wof:lastmodified":1544748450,
+    "wof:lastmodified":1561777886,
     "wof:name":"\u0428\u0435\u0440\u0448\u0435\u043d\u0446\u0456",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

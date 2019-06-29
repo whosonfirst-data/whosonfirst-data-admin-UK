@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2221055.944507,
+    "geom:area_square_m":2221055.944509,
     "geom:bbox":"29.0284959814,48.0123160184,29.047050184,48.0308701617",
     "geom:latitude":48.021543,
     "geom:longitude":29.037739,
@@ -46,9 +46,6 @@
     "name:fry_x_preferred":[
         "Hrabove"
     ],
-    "name:ger_x_preferred":[
-        "Hrabowe"
-    ],
     "name:heb_x_preferred":[
         "\u05d4\u05e8\u05d1\u05d5\u05d1\u05d4"
     ],
@@ -77,9 +74,6 @@
         "Hrabowe"
     ],
     "name:ron_x_preferred":[
-        "Hrabove"
-    ],
-    "name:rum_x_preferred":[
         "Hrabove"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +133,7 @@
         }
     ],
     "wof:id":101876557,
-    "wof:lastmodified":1553815565,
+    "wof:lastmodified":1561777892,
     "wof:name":"\u0413\u0440\u0430\u0431\u043e\u0432\u0435",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

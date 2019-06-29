@@ -16,19 +16,16 @@
     "mps:longitude":29.312191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6258\u5e15\u5229"
-    ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Topaly"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Topaly"
     ],
     "name:lav_x_preferred":[
         "Topali"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Topal\u00ee"
     ],
     "name:rus_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:ukr_x_preferred":[
         "Topaly"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5e15\u5229"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101865603,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561777893,
     "wof:name":"\u0422\u043e\u043f\u0430\u043b\u0438",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

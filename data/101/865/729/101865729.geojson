@@ -22,16 +22,16 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u0438\u043d\u0441\u043a\u0435"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Dolynske"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Dolynske"
     ],
     "name:lav_x_preferred":[
         "Dolinske"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dol\u00eenske"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101865729,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561777895,
     "wof:name":"\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

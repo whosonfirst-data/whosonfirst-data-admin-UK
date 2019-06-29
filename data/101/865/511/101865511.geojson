@@ -30,9 +30,6 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u7c73\u6d77\u5229\u592b\u5361"
-    ],
     "name:crh_x_preferred":[
         "Vel\u0131ka M\u0131haylivka"
     ],
@@ -41,9 +38,6 @@
     ],
     "name:eng_x_preferred":[
         "Velyka Mykhailivka"
-    ],
-    "name:ger_x_preferred":[
-        "Welyka Mychajliwka"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05d5\u05e1\u05d5\u05dc\u05d5\u05d1\u05d4"
@@ -57,7 +51,7 @@
     "name:ron_x_preferred":[
         "Vel\u00eeka M\u00eehailivka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Grosu"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +125,7 @@
         }
     ],
     "wof:id":101865511,
-    "wof:lastmodified":1544748082,
+    "wof:lastmodified":1561777894,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",

@@ -20,8 +20,8 @@
     "name:bul_x_preferred":[
         "\u041e\u043a\u043d\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u514b\u5c3c"
+    "name:deu_x_preferred":[
+        "Okny"
     ],
     "name:eng_x_preferred":[
         "Okny"
@@ -29,10 +29,7 @@
     "name:fin_x_preferred":[
         "Okny"
     ],
-    "name:fre_x_preferred":[
-        "Okny"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Okny"
     ],
     "name:heb_x_preferred":[
@@ -44,7 +41,7 @@
     "name:pol_x_preferred":[
         "Okny"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ocna"
     ],
     "name:rus_x_historical":[
@@ -78,6 +75,9 @@
     ],
     "name:unk_x_variant":[
         "Okny"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u514b\u5c3c"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":101865611,
-    "wof:lastmodified":1544748140,
+    "wof:lastmodified":1561777893,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0456 \u041e\u043a\u043d\u0438",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

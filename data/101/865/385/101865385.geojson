@@ -16,19 +16,19 @@
     "mps:longitude":30.635046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053b\u056c\u056b\u0576\u056f\u0561"
+    "name:deu_x_preferred":[
+        "Illinka"
     ],
     "name:eng_x_preferred":[
         "Illinka"
     ],
-    "name:ger_x_preferred":[
-        "Illinka"
+    "name:hye_x_preferred":[
+        "\u053b\u056c\u056b\u0576\u056f\u0561"
     ],
     "name:lav_x_preferred":[
         "I\u013c\u013cinka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Illinka"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101865385,
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561777894,
     "wof:name":"\u0406\u043b\u043b\u0456\u043d\u043a\u0430",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

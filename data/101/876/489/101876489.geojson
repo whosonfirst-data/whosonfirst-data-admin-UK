@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000925,
-    "geom:area_square_m":7693722.849006,
+    "geom:area_square_m":7693722.849004,
     "geom:bbox":"29.5183899805,47.7145090747,29.5492807053,47.7516410822",
     "geom:latitude":47.733292,
     "geom:longitude":29.534562,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062f\u064a\u0644\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u057f\u0578\u057e\u057d\u056f"
-    ],
     "name:bel_x_variant":[
         "\u041f\u0430\u0434\u043e\u043b\u044c\u0441\u043a"
     ],
@@ -32,19 +29,10 @@
     "name:ces_x_preferred":[
         "Podilsk"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6258\u592b\u65af\u514b"
-    ],
     "name:crh_x_preferred":[
         "Podilsk"
     ],
-    "name:cze_x_preferred":[
-        "Podilsk"
-    ],
     "name:deu_x_preferred":[
-        "Podilsk"
-    ],
-    "name:dut_x_preferred":[
         "Podilsk"
     ],
     "name:eng_x_preferred":[
@@ -54,15 +42,6 @@
         "\u067e\u0648\u062f\u06cc\u0644\u0633\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Podilsk"
-    ],
-    "name:fre_x_preferred":[
-        "Podilsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e2\u10dd\u10d5\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Podilsk"
     ],
     "name:heb_x_preferred":[
@@ -80,25 +59,25 @@
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10d3\u10dd\u10da\u10e1\u10d9\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10dd\u10e2\u10dd\u10d5\u10e1\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ub51c\uc2a4\ud06c"
     ],
     "name:lav_x_preferred":[
         "Podilska"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Podilsk"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u062f\u06cc\u0644\u0633\u06a9"
+    "name:nno_x_preferred":[
+        "Podilsk"
     ],
     "name:pol_x_preferred":[
         "Podil\u015bk"
     ],
     "name:ron_x_preferred":[
-        "B\u00e2rzula"
-    ],
-    "name:rum_x_preferred":[
         "B\u00e2rzula"
     ],
     "name:rus_x_preferred":[
@@ -186,7 +165,7 @@
         }
     ],
     "wof:id":101876489,
-    "wof:lastmodified":1527714918,
+    "wof:lastmodified":1561777892,
     "wof:name":"\u041a\u043e\u0442\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730697,
     "wof:placetype":"locality",

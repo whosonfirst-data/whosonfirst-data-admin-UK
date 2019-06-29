@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u0426\u0435\u0431\u0440\u0438\u043a\u043e\u0432\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u91c7\u5e03\u91cc\u79d1\u97cb"
-    ],
     "name:crh_x_preferred":[
         "Tsebr\u0131kove"
     ],
@@ -31,9 +28,6 @@
     "name:eng_x_preferred":[
         "Tsebrykove"
     ],
-    "name:ger_x_preferred":[
-        "Zebrykowe"
-    ],
     "name:lav_x_preferred":[
         "Cebrikove"
     ],
@@ -41,9 +35,6 @@
         "Cebrykowe"
     ],
     "name:ron_x_preferred":[
-        "\u021aebr\u00eekove"
-    ],
-    "name:rum_x_preferred":[
         "\u021aebr\u00eekove"
     ],
     "name:rus_x_preferred":[
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":101865513,
-    "wof:lastmodified":1544748083,
+    "wof:lastmodified":1561777895,
     "wof:name":"\u0426\u0435\u0431\u0440\u0438\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",
