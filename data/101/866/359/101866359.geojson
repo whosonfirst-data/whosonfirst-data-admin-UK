@@ -16,17 +16,14 @@
     "mps:longitude":29.972621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u514b\u6c99"
+    "name:deu_x_preferred":[
+        "Bakscha"
     ],
     "name:eng_x_preferred":[
         "Baksha"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d9\u10e8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bakscha"
     ],
     "name:lav_x_preferred":[
         "Bak\u0161a"
@@ -34,7 +31,7 @@
     "name:pol_x_preferred":[
         "Baksza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bak\u0219a"
     ],
     "name:rus_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:ukr_x_variant":[
         "\u0411\u0430\u043a\u0448\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u514b\u6c99"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101866359,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561777886,
     "wof:name":"\u0411\u0430\u043a\u0448\u0430",
     "wof:parent_id":102088165,
     "wof:placetype":"locality",

@@ -20,8 +20,8 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0647\u0646\u064a\u062a\u0643\u064a\u0641\u060c \u0623\u0648\u062f\u064a\u0633\u0643\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u683c\u5c3c\u7279\u57fa\u592b"
+    "name:deu_x_preferred":[
+        "Sahnitkiw"
     ],
     "name:eng_x_preferred":[
         "Zahnitkiv"
@@ -29,13 +29,10 @@
     "name:est_x_preferred":[
         "Zagnitkiv"
     ],
-    "name:ger_x_preferred":[
-        "Sahnitkiw"
-    ],
     "name:lav_x_preferred":[
         "Zah\u0146itkiva"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zahnitkiv"
     ],
     "name:rus_x_preferred":[
@@ -49,6 +46,9 @@
     ],
     "name:unk_x_variant":[
         "Zagnitkiv"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u683c\u5c3c\u7279\u57fa\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101866165,
-    "wof:lastmodified":1544748453,
+    "wof:lastmodified":1561777886,
     "wof:name":"\u0417\u0430\u0433\u043d\u0456\u0442\u043a\u0456\u0432",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

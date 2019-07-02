@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
-    "geom:area_square_m":3045272.247852,
+    "geom:area_square_m":3045272.247849,
     "geom:bbox":"29.5465802959,47.7171981904,29.5681884333,47.7469603224",
     "geom:latitude":47.731298,
     "geom:longitude":29.556545,
@@ -19,22 +19,19 @@
     "name:ces_x_preferred":[
         "Velk\u00fd Kujalnik"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u4e9e\u5229\u5c3c\u514b"
-    ],
     "name:deu_x_preferred":[
         "Welykyj Kujalnyk"
+    ],
+    "name:deu_x_variant":[
+        "Kujalnyk"
     ],
     "name:eng_x_preferred":[
         "Kuialnyk"
     ],
-    "name:ger_x_preferred":[
-        "Kujalnyk"
-    ],
     "name:lav_x_preferred":[
         "Kuja\u013cnika"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kuialn\u00eek"
     ],
     "name:rus_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5927\u5eab\u4e9e\u5229\u5c3c\u514b\u6cb3"
+    ],
+    "name:zho_x_variant":[
+        "\u5eab\u4e9e\u5229\u5c3c\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":101876487,
-    "wof:lastmodified":1553815565,
+    "wof:lastmodified":1561777892,
     "wof:name":"\u041a\u0443\u044f\u043b\u044c\u043d\u0438\u043a",
     "wof:parent_id":102088079,
     "wof:placetype":"locality",

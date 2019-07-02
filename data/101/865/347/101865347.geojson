@@ -16,19 +16,16 @@
     "mps:longitude":30.081977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9e\u897f\u57fa"
+    "name:deu_x_preferred":[
+        "Jasky"
     ],
     "name:eng_x_preferred":[
         "Yasky"
     ],
-    "name:ger_x_preferred":[
-        "Jasky"
-    ],
     "name:lav_x_preferred":[
         "Jaski"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Iask\u00ee"
     ],
     "name:rus_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Yas\u2019ky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u897f\u57fa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101865347,
-    "wof:lastmodified":1544747999,
+    "wof:lastmodified":1561777894,
     "wof:name":"\u042f\u0441\u044c\u043a\u0438",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

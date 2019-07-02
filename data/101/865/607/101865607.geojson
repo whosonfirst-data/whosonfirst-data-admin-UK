@@ -16,11 +16,11 @@
     "mps:longitude":29.333057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Tschorna"
+    ],
     "name:eng_x_preferred":[
         "Chorna"
-    ],
-    "name:ger_x_preferred":[
-        "Tschorna"
     ],
     "name:hun_x_preferred":[
         "Czarna"
@@ -31,7 +31,7 @@
     "name:pol_x_preferred":[
         "Czarna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ciorna"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101865607,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561777895,
     "wof:name":"\u0427\u043e\u0440\u043d\u0430",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

@@ -16,16 +16,16 @@
     "mps:longitude":29.890576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Nowopetriwka"
+    ],
     "name:eng_x_preferred":[
         "Novopetrivka"
-    ],
-    "name:ger_x_preferred":[
-        "Nowopetriwka"
     ],
     "name:lav_x_preferred":[
         "Novopetrivka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novopetrivka"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101865505,
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561777893,
     "wof:name":"\u041d\u043e\u0432\u043e\u043f\u0435\u0442\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",

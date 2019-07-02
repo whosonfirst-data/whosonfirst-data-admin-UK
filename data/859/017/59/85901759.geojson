@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2985674.006151,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.890686,47.938903,23.890686,47.938903",
     "geom:latitude":47.938903,
     "geom:longitude":23.890686,
@@ -23,11 +23,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ron_x_preferred":[
+        "Dealu Cet\u0103\u021bii"
+    ],
     "name:rum_x_colloquial":[
         "Dealu Cetatii"
-    ],
-    "name:rum_x_preferred":[
-        "Dealu Cet\u0103\u021bii"
     ],
     "name:unk_x_variant":[
         "Dealu Cet\u0103\u021bii"
@@ -82,7 +82,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1531932560,
+    "wof:lastmodified":1561777884,
     "wof:name":"Dealu Cet\u0103\u021bii",
     "wof:parent_id":101833687,
     "wof:placetype":"neighbourhood",

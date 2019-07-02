@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u0627\u064a\u0641\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u0575\u0561\u0587\u056f\u0561"
-    ],
     "name:bel_x_variant":[
         "\u0411\u044f\u043b\u044f\u0435\u045e\u043a\u0430"
     ],
@@ -32,14 +29,8 @@
     "name:ces_x_preferred":[
         "Biljajivka"
     ],
-    "name:chi_x_preferred":[
-        "\u5225\u5229\u4e9e\u8036\u592b\u5361"
-    ],
     "name:crh_x_preferred":[
         "Bil\u00e2yivka"
-    ],
-    "name:cze_x_preferred":[
-        "Biljajivka"
     ],
     "name:deu_x_preferred":[
         "Biljajiwka"
@@ -52,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Bilia\u00efvka"
-    ],
-    "name:fre_x_preferred":[
-        "Bilia\u00efvka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10da\u10d8\u10d0\u10d4\u10d5\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Biljajiwka"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0575\u0561\u0587\u056f\u0561"
@@ -86,16 +68,13 @@
     "name:nor_x_preferred":[
         "Biljajivka"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0644\u06cc\u0627\u0626\u06cc\u0641\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Bielajewka"
     ],
     "name:ron_x_preferred":[
         "Bileaiivka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Biliaivka"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +150,7 @@
         }
     ],
     "wof:id":101865387,
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561777895,
     "wof:name":"\u0411\u0456\u043b\u044f\u0457\u0432\u043a\u0430",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

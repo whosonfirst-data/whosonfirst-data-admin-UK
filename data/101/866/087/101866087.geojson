@@ -16,16 +16,16 @@
     "mps:longitude":29.487217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Ljubomyrka"
+    ],
     "name:eng_x_preferred":[
         "Liubomyrka"
-    ],
-    "name:ger_x_preferred":[
-        "Ljubomyrka"
     ],
     "name:lav_x_preferred":[
         "\u013bubomirka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Liubom\u00eerka"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101866087,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561777887,
     "wof:name":"\u041b\u044e\u0431\u043e\u043c\u0438\u0440\u043a\u0430",
     "wof:parent_id":102088079,
     "wof:placetype":"locality",

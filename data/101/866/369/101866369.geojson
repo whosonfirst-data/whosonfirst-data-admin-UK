@@ -16,19 +16,16 @@
     "mps:longitude":30.139002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6ce2\u5229\u4e9e\u6d85\u9f4a\u514b"
+    "name:deu_x_preferred":[
+        "Poljanezke"
     ],
     "name:eng_x_preferred":[
         "Polyanets'ke"
     ],
-    "name:ger_x_preferred":[
-        "Poljanezke"
-    ],
     "name:lav_x_preferred":[
         "Po\u013canecke"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Poleane\u021bke"
     ],
     "name:rus_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Polyanetskoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5229\u4e9e\u6d85\u9f4a\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101866369,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561777886,
     "wof:name":"\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c\u043a\u0435",
     "wof:parent_id":102088165,
     "wof:placetype":"locality",

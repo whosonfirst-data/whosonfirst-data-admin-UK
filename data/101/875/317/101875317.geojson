@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":1851488.967691,
+    "geom:area_square_m":1851488.96769,
     "geom:bbox":"28.6067915511,45.7318789926,28.625205441,45.7491995827",
     "geom:latitude":45.741328,
     "geom:longitude":28.616821,
@@ -23,16 +23,16 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u0439\u043a\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Salisnytschne"
+    ],
     "name:eng_x_preferred":[
         "Zaliznychne"
-    ],
-    "name:ger_x_preferred":[
-        "Salisnytschne"
     ],
     "name:lav_x_preferred":[
         "Za\u013cizni\u010dne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bulg\u0103rica"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101875317,
-    "wof:lastmodified":1514511158,
+    "wof:lastmodified":1561777886,
     "wof:name":"\u0417\u0430\u043b\u0456\u0437\u043d\u0438\u0447\u043d\u0435",
     "wof:parent_id":102087923,
     "wof:placetype":"locality",

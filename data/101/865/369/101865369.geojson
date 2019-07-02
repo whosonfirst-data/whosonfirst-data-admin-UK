@@ -16,19 +16,16 @@
     "mps:longitude":29.988983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u683c\u62c9\u5091\u5c3c\u9f4a"
+    "name:deu_x_preferred":[
+        "Hradenyzi"
     ],
     "name:eng_x_preferred":[
         "Hradenytsi"
     ],
-    "name:ger_x_preferred":[
-        "Hradenyzi"
-    ],
     "name:lav_x_preferred":[
         "Hradenici"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hraden\u00ee\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:unk_x_variant":[
         "Gradenitsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u5091\u5c3c\u9f4a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101865369,
-    "wof:lastmodified":1544748011,
+    "wof:lastmodified":1561777894,
     "wof:name":"\u0413\u0440\u0430\u0434\u0435\u043d\u0438\u0446\u0456",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",
