@@ -25,6 +25,9 @@
     "name:lav_x_preferred":[
         "Jaski"
     ],
+    "name:pol_x_preferred":[
+        "Ja\u015bky"
+    ],
     "name:ron_x_preferred":[
         "Iask\u00ee"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101865347,
-    "wof:lastmodified":1561777894,
+    "wof:lastmodified":1563317844,
     "wof:name":"\u042f\u0441\u044c\u043a\u0438",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

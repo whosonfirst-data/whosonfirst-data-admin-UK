@@ -19,8 +19,17 @@
     "name:deu_x_preferred":[
         "Taras Wozniak"
     ],
+    "name:eng_x_preferred":[
+        "Taras Voznyak"
+    ],
+    "name:fra_x_preferred":[
+        "Taras Voznyak"
+    ],
     "name:pol_x_preferred":[
         "Taras Wozniak"
+    ],
+    "name:spa_x_preferred":[
+        "Taras Voznyak"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0437\u043d\u044f\u043a \u0422\u0430\u0440\u0430\u0441 \u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432\u0438\u0447"
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":101866173,
-    "wof:lastmodified":1544748457,
+    "wof:lastmodified":1563317783,
     "wof:name":"\u0406\u0432\u0430\u0448\u043a\u0456\u0432",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

@@ -17,8 +17,14 @@
     "mps:longitude":30.971276,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petrivka"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u0432\u043a\u0430"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":101865475,
-    "wof:lastmodified":1544748064,
+    "wof:lastmodified":1563317850,
     "wof:name":"\u041f\u0435\u0442\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102087995,
     "wof:placetype":"locality",

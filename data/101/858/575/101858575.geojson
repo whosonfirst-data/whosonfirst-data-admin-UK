@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
     "name:spa_x_preferred":[
         "Krasne"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101858575,
-    "wof:lastmodified":1561777890,
+    "wof:lastmodified":1563317808,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0435",
     "wof:parent_id":102087949,
     "wof:placetype":"locality",

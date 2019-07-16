@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "Staraya Kul\u2019na"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u041a\u0443\u043b\u044c\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
         "Stara Kul'na"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101866081,
-    "wof:lastmodified":1561777887,
+    "wof:lastmodified":1563317788,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u041a\u0443\u043b\u044c\u043d\u0430",
     "wof:parent_id":102088079,
     "wof:placetype":"locality",

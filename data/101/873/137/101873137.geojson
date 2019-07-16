@@ -16,17 +16,35 @@
     "mps:longitude":29.835783,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Kodyma"
+    ],
     "name:bel_x_variant":[
         "\u041a\u0430\u0434\u044b\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kodyma"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Kodyma"
     ],
     "name:deu_x_preferred":[
         "Kodyma"
     ],
+    "name:eng_x_preferred":[
+        "Kodyma River"
+    ],
     "name:est_x_preferred":[
         "Kod\u00f5ma j\u00f5gi"
     ],
+    "name:est_x_variant":[
+        "Kod\u00f5ma"
+    ],
     "name:nno_x_preferred":[
         "Kodyma"
+    ],
+    "name:nno_x_variant":[
+        "Kodymaelva"
     ],
     "name:pol_x_preferred":[
         "Kodyma"
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":101873137,
-    "wof:lastmodified":1544751493,
+    "wof:lastmodified":1563317779,
     "wof:name":"\u0413\u043e\u043b\u044c\u043c\u0430",
     "wof:parent_id":102088151,
     "wof:placetype":"locality",

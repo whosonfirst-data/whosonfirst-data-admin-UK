@@ -19,14 +19,26 @@
     "name:bul_x_preferred":[
         "\u0418\u0432\u0430\u043d \u041a\u043e\u0442\u043b\u044f\u0440\u0435\u0432\u0441\u043a\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Ivan Kotliarevskyi"
+    ],
     "name:ces_x_preferred":[
+        "Ivan Kotljarevskyj"
+    ],
+    "name:dan_x_preferred":[
         "Ivan Kotljarevskyj"
     ],
     "name:deu_x_preferred":[
         "Iwan Kotljarewskyj"
     ],
+    "name:eng_x_preferred":[
+        "Ivan Kotlyarevsky"
+    ],
     "name:epo_x_preferred":[
         "Ivan Kotlarevskij"
+    ],
+    "name:fin_x_preferred":[
+        "Ivan Kotljarevskyi"
     ],
     "name:fra_x_preferred":[
         "Ivan Kotliarevsky"
@@ -49,11 +61,20 @@
     "name:lat_x_preferred":[
         "Ioannes Kotljarevs'kyj"
     ],
+    "name:nld_x_preferred":[
+        "Ivan Kotlyarevsky"
+    ],
     "name:pol_x_preferred":[
         "Iwan Kotlarewski"
     ],
+    "name:por_x_preferred":[
+        "Ivan Kotliarevski"
+    ],
     "name:ron_x_preferred":[
         "Ivan Kotlearevski"
+    ],
+    "name:rue_x_preferred":[
+        "\u0406\u0432\u0430\u043d \u041a\u043e\u0442\u043b\u044f\u0440\u0435\u0432\u0441\u043a\u044b\u0439"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0442\u043b\u044f\u0440\u0435\u0432\u0441\u043a\u0438\u0439"
@@ -112,7 +133,7 @@
         }
     ],
     "wof:id":101858487,
-    "wof:lastmodified":1544744431,
+    "wof:lastmodified":1563317817,
     "wof:name":"\u0422\u0435\u043f\u043b\u0438\u0446\u044f",
     "wof:parent_id":102087931,
     "wof:placetype":"locality",

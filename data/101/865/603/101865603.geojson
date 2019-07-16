@@ -34,6 +34,9 @@
     "name:ukr_x_preferred":[
         "Topaly"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043f\u0430\u043b\u0438"
+    ],
     "name:zho_x_preferred":[
         "\u6258\u5e15\u5229"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101865603,
-    "wof:lastmodified":1561777893,
+    "wof:lastmodified":1563317839,
     "wof:name":"\u0422\u043e\u043f\u0430\u043b\u0438",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17931667.312275,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.961975,46.96358,31.961975,46.96358",
     "geom:latitude":46.96358,
     "geom:longitude":31.961975,
@@ -23,11 +23,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Iwan Sawenko"
+    ],
     "name:eng_x_preferred":[
         "Varvarovka"
     ],
+    "name:eng_x_variant":[
+        "Ivan Savenko"
+    ],
+    "name:fra_x_preferred":[
+        "Ivan Savenko"
+    ],
+    "name:nld_x_preferred":[
+        "Ivan Savenko"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0432\u0435\u043d\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Ivan Savenko"
+    ],
+    "name:sqi_x_preferred":[
+        "Ivan Savenko"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0432\u0435\u043d\u043a\u043e \u0406\u0432\u0430\u043d \u0413\u0440\u0438\u0433\u043e\u0440\u043e\u0432\u0438\u0447"
@@ -63,11 +81,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":372,
     "wof:belongsto":[
+        85688819,
         102191581,
         85633805,
         101752809,
-        1108815781,
-        85688819
+        1108815781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935913,
+    "wof:lastmodified":1563317772,
     "wof:name":"Varvarovka",
     "wof:parent_id":101752809,
     "wof:placetype":"neighbourhood",
