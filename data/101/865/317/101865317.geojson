@@ -28,11 +28,17 @@
     "name:nno_x_preferred":[
         "Sukhyj-limanen"
     ],
+    "name:pol_x_preferred":[
+        "Suchyj \u0141yman"
+    ],
     "name:ron_x_preferred":[
         "Suh\u00eei L\u00eeman"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0445\u043e\u0439 \u043b\u0438\u043c\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0443\u0445\u043e\u0439 \u041b\u0438\u043c\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Seque Lyman"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":101865317,
-    "wof:lastmodified":1561777895,
+    "wof:lastmodified":1563317859,
     "wof:name":"\u0421\u0443\u0445\u0438\u0439 \u041b\u0438\u043c\u0430\u043d",
     "wof:parent_id":102087967,
     "wof:placetype":"locality",

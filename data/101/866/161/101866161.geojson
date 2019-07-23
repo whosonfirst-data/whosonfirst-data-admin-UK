@@ -37,6 +37,9 @@
     "name:ukr_x_preferred":[
         "Shershentsi"
     ],
+    "name:ukr_x_variant":[
+        "\u0428\u0435\u0440\u0448\u0435\u043d\u0446\u0456"
+    ],
     "name:unk_x_variant":[
         "Shershintsy"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101866161,
-    "wof:lastmodified":1561777886,
+    "wof:lastmodified":1563317781,
     "wof:name":"\u0428\u0435\u0440\u0448\u0435\u043d\u0446\u0456",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

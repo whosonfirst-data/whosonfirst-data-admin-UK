@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0447\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kalcheva"
+    ],
     "name:ces_x_preferred":[
         "Christina Kal\u010devov\u00e1"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101858411,
-    "wof:lastmodified":1561777891,
+    "wof:lastmodified":1563317816,
     "wof:name":"\u041a\u0430\u043b\u0447\u0435\u0432\u0430",
     "wof:parent_id":102087923,
     "wof:placetype":"locality",

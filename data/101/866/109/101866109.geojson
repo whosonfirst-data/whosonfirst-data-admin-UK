@@ -19,11 +19,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646\u064a\u0641"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0410\u043d\u0430\u043d\u044c\u0435\u045e"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u043d\u0438\u0435\u0432"
+    ],
+    "name:ces_x_preferred":[
+        "Ananjiv"
     ],
     "name:crh_x_preferred":[
         "Ananyiv"
@@ -31,8 +34,14 @@
     "name:deu_x_preferred":[
         "Ananjiw"
     ],
+    "name:eng_x_preferred":[
+        "Ananyiv"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0627\u0646\u0626\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0646\u0627\u0646\u0626\u06cc\u0641"
     ],
     "name:fra_x_preferred":[
         "Ananiv"
@@ -40,8 +49,14 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e0\u05e0\u05d9\u05d9\u05d1"
     ],
+    "name:hsb_x_preferred":[
+        "Ananjiw"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u0561\u0576\u056b\u0587"
+    ],
+    "name:ita_x_preferred":[
+        "Anan'\u00efv"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d0\u10dc\u10d8\u10d4\u10d5\u10d8"
@@ -49,10 +64,16 @@
     "name:kaz_x_preferred":[
         "\u0410\u043d\u0430\u043d\u044c\u0435\u0432"
     ],
+    "name:lav_x_preferred":[
+        "Ana\u0146jiva"
+    ],
     "name:lit_x_preferred":[
         "Ananjivas"
     ],
     "name:nno_x_preferred":[
+        "Ananjiv"
+    ],
+    "name:nob_x_preferred":[
         "Ananjiv"
     ],
     "name:nor_x_preferred":[
@@ -60,6 +81,9 @@
     ],
     "name:pol_x_preferred":[
         "Ana\u0144jiw"
+    ],
+    "name:pol_x_variant":[
+        "Ananiw"
     ],
     "name:ron_x_preferred":[
         "Ananiev"
@@ -75,6 +99,9 @@
     ],
     "name:spa_x_preferred":[
         "Ananiv"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u044c\u0438\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0430\u043d\u044c\u0457\u0432"
@@ -137,7 +164,7 @@
         }
     ],
     "wof:id":101866109,
-    "wof:lastmodified":1544748421,
+    "wof:lastmodified":1563317786,
     "wof:name":"\u0410\u043d\u0430\u043d\u044c\u0457\u0432",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

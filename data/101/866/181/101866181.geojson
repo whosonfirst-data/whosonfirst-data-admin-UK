@@ -17,11 +17,17 @@
     "mps:longitude":29.123983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0434\u044b\u043c\u0430"
+    ],
     "name:bel_x_variant":[
         "\u041a\u0430\u0434\u044b\u043c\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0434\u0438\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kodyma"
     ],
     "name:crh_x_preferred":[
         "Kod\u0131ma"
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":101866181,
-    "wof:lastmodified":1561777886,
+    "wof:lastmodified":1563317784,
     "wof:name":"\u041a\u043e\u0434\u0438\u043c\u0430",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Polyanets'ke"
     ],
+    "name:eng_x_variant":[
+        "Polianetske"
+    ],
     "name:lav_x_preferred":[
         "Po\u013canecke"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101866369,
-    "wof:lastmodified":1561777886,
+    "wof:lastmodified":1563317787,
     "wof:name":"\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c\u043a\u0435",
     "wof:parent_id":102088165,
     "wof:placetype":"locality",

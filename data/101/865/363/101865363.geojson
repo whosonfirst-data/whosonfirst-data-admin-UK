@@ -16,6 +16,63 @@
     "mps:longitude":30.714839,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Carmanova"
+    ],
+    "name:dan_x_preferred":[
+        "Carmanova"
+    ],
+    "name:deu_x_preferred":[
+        "Carmanova"
+    ],
+    "name:eng_x_preferred":[
+        "Carmanova"
+    ],
+    "name:eus_x_preferred":[
+        "Carmanova"
+    ],
+    "name:fra_x_preferred":[
+        "Carmanova"
+    ],
+    "name:ita_x_preferred":[
+        "Carmanova"
+    ],
+    "name:nld_x_preferred":[
+        "Carmanova"
+    ],
+    "name:nno_x_preferred":[
+        "Carmanova"
+    ],
+    "name:nob_x_preferred":[
+        "Carmanova"
+    ],
+    "name:pol_x_preferred":[
+        "Carmanova"
+    ],
+    "name:por_x_preferred":[
+        "Carmanova"
+    ],
+    "name:ron_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0430\u0440"
+    ],
+    "name:ron_x_variant":[
+        "Carmanova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Carmanova"
+    ],
+    "name:swe_x_preferred":[
+        "Carmanova"
+    ],
+    "name:tur_x_preferred":[
+        "Carmanova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0430\u043d\u043e\u0432\u0435"
+    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Odes'ka",
@@ -59,7 +116,7 @@
         }
     ],
     "wof:id":101865363,
-    "wof:lastmodified":1544748007,
+    "wof:lastmodified":1563317833,
     "wof:name":"\u041a\u043e\u0442\u043e\u0432\u043a\u0430",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

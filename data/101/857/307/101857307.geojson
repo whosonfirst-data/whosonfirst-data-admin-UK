@@ -31,6 +31,9 @@
     "name:nno_x_preferred":[
         "Dalnyk"
     ],
+    "name:pol_x_preferred":[
+        "Dalnyk"
+    ],
     "name:ron_x_preferred":[
         "R\u00e2ul Dalnic"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "Dal\u2019nik"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0430\u043b\u044c\u043d\u0438\u043a"
     ],
     "name:spa_x_preferred":[
         "Dal'nyk"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":101857307,
-    "wof:lastmodified":1561777887,
+    "wof:lastmodified":1563317791,
     "wof:name":"\u0414\u0430\u043b\u044c\u043d\u0438\u043a",
     "wof:parent_id":102087967,
     "wof:placetype":"locality",

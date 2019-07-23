@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0431\u043e\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u0440\u0431\u044b"
+    ],
     "name:spa_x_preferred":[
         "Serby"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101866169,
-    "wof:lastmodified":1561777886,
+    "wof:lastmodified":1563317781,
     "wof:name":"\u0421\u0435\u0440\u0431\u0438",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

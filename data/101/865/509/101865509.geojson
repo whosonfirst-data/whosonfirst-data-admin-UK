@@ -34,6 +34,9 @@
     "name:ukr_x_preferred":[
         "Novoborysivka"
     ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0431\u043e\u0440\u0438\u0441\u0456\u0432\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Novoborisovka"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101865509,
-    "wof:lastmodified":1561777894,
+    "wof:lastmodified":1563317848,
     "wof:name":"\u041d\u043e\u0432\u043e\u0431\u043e\u0440\u0438\u0441\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",
