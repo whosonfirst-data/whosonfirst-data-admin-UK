@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20108081.471038,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.608068,50.437507,30.608068,50.437507",
     "geom:latitude":50.437507,
     "geom:longitude":30.608068,
@@ -59,13 +59,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935912,
+    "wof:lastmodified":1566247559,
     "wof:name":"Staraya Darnitsa",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",
