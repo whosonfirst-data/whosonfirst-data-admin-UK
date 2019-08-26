@@ -10,12 +10,16 @@
     "geom:latitude":46.225332,
     "geom:longitude":30.531343,
     "iso:country":"UK",
+    "lbl:bbox":"30.511343,46.205332,30.551343,46.245332",
     "lbl:latitude":46.225332,
     "lbl:longitude":30.531343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.225332,
     "mps:longitude":30.531343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dalnyk"
     ],
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":710317,
         "gp:id":929958,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q22736823"
     },
     "wof:country":"UK",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101857307,
-    "wof:lastmodified":1563317791,
+    "wof:lastmodified":1566595784,
     "wof:name":"\u0414\u0430\u043b\u044c\u043d\u0438\u043a",
     "wof:parent_id":102087967,
     "wof:placetype":"locality",

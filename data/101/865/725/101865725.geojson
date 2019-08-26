@@ -11,12 +11,16 @@
     "geom:longitude":30.760082,
     "gn:population":3629,
     "iso:country":"UK",
+    "lbl:bbox":"30.740082,47.519682,30.780082,47.559682",
     "lbl:latitude":47.539682,
     "lbl:longitude":30.760082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.539682,
     "mps:longitude":30.760082,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Mykolaivka"
     ],
@@ -206,7 +210,7 @@
     "name:ukr_x_variant":[
         "Mykolaivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikolayevka Vtoraya"
     ],
     "name:vec_x_preferred":[
@@ -249,7 +253,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -262,7 +266,7 @@
     "wof:concordances":{
         "gn:id":700159,
         "gp:id":928033,
-        "qs:id":1028508,
+        "qs_pg:id":1028508,
         "wd:id":"Q16461831"
     },
     "wof:country":"UK",
@@ -277,7 +281,7 @@
         }
     ],
     "wof:id":101865725,
-    "wof:lastmodified":1563317841,
+    "wof:lastmodified":1566595804,
     "wof:name":"\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088075,
     "wof:placetype":"locality",

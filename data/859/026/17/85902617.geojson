@@ -12,8 +12,10 @@
     "gn:latitude":50.43333,
     "gn:longitude":30.65,
     "iso:country":"UK",
+    "lbl:bbox":"30.641762,50.416995,30.651762,50.426995",
     "lbl:latitude":50.421995,
     "lbl:longitude":30.646762,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.426468,
     "mps:longitude":30.656811,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
-        "Novaya Darnitsa"
-    ],
-    "name:unk_x_variant":[
         "Novaya Darnitsa"
     ],
     "qs:gn_adm0_cc":"UA",
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":699871,
         "gp:id":928244,
-        "qs:id":1175103,
         "qs_pg:id":1175103
     },
     "wof:country":"UK",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247559,
+    "wof:lastmodified":1566595776,
     "wof:name":"Novaya Darnitsa",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

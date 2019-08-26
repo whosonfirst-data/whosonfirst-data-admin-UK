@@ -10,12 +10,16 @@
     "geom:latitude":47.686972,
     "geom:longitude":30.06073,
     "iso:country":"UK",
+    "lbl:bbox":"30.04073,47.666972,30.08073,47.706972",
     "lbl:latitude":47.686972,
     "lbl:longitude":30.06073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.686972,
     "mps:longitude":30.06073,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646\u064a\u0641"
     ],
@@ -109,7 +113,7 @@
     "name:ukr_x_variant":[
         "Anan\u2019yiv"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ananjew"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +141,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":282,
     "wof:belongsto":[
         102191581,
@@ -149,7 +153,7 @@
     "wof:concordances":{
         "gn:id":713500,
         "gp:id":915712,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q485891"
     },
     "wof:country":"UK",
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":101866109,
-    "wof:lastmodified":1563317786,
+    "wof:lastmodified":1566595782,
     "wof:name":"\u0410\u043d\u0430\u043d\u044c\u0457\u0432",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

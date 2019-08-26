@@ -10,12 +10,16 @@
     "geom:latitude":46.511365,
     "geom:longitude":30.081977,
     "iso:country":"UK",
+    "lbl:bbox":"30.061977,46.491365,30.101977,46.531365",
     "lbl:latitude":46.511365,
     "lbl:longitude":30.081977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.511365,
     "mps:longitude":30.081977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jasky"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0441\u044c\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yas\u2019ky"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":688361,
         "gp:id":938966,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4539562"
     },
     "wof:country":"UK",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101865347,
-    "wof:lastmodified":1563317844,
+    "wof:lastmodified":1566595806,
     "wof:name":"\u042f\u0441\u044c\u043a\u0438",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

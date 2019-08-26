@@ -10,12 +10,16 @@
     "geom:latitude":47.694798,
     "geom:longitude":29.314013,
     "iso:country":"UK",
+    "lbl:bbox":"29.294013,47.674798,29.334013,47.714798",
     "lbl:latitude":47.694798,
     "lbl:longitude":29.314013,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.694798,
     "mps:longitude":29.314013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stara Kulna"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u0440\u0430 \u041a\u0443\u043b\u044c\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kul\u2019na"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":692889,
         "gp:id":481088,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4439712"
     },
     "wof:country":"UK",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101866081,
-    "wof:lastmodified":1563317788,
+    "wof:lastmodified":1566595783,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u041a\u0443\u043b\u044c\u043d\u0430",
     "wof:parent_id":102088079,
     "wof:placetype":"locality",

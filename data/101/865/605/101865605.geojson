@@ -10,12 +10,16 @@
     "geom:latitude":47.606124,
     "geom:longitude":29.54489,
     "iso:country":"UK",
+    "lbl:bbox":"29.52489,47.586124,29.56489,47.626124",
     "lbl:latitude":47.606124,
     "lbl:longitude":29.54489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.606124,
     "mps:longitude":29.54489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stawrowe"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u0432\u0440\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stavrovo"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":692648,
         "gp:id":935086,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4438992"
     },
     "wof:country":"UK",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101865605,
-    "wof:lastmodified":1561777893,
+    "wof:lastmodified":1566595803,
     "wof:name":"\u0421\u0442\u0430\u0432\u0440\u043e\u0432\u0435",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

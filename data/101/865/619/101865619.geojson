@@ -10,12 +10,16 @@
     "geom:latitude":47.223562,
     "geom:longitude":30.801279,
     "iso:country":"UK",
+    "lbl:bbox":"30.781279,47.203562,30.821279,47.243562",
     "lbl:latitude":47.223562,
     "lbl:longitude":30.801279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.223562,
     "mps:longitude":30.801279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sawodiwka"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u0432\u043e\u0434\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zavodovka"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":687539,
         "gp:id":12518239,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4183160"
     },
     "wof:country":"UK",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101865619,
-    "wof:lastmodified":1563317834,
+    "wof:lastmodified":1566595802,
     "wof:name":"\u0417\u0430\u0432\u043e\u0434\u0456\u0432\u043a\u0430",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

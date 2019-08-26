@@ -10,12 +10,16 @@
     "geom:latitude":46.016068,
     "geom:longitude":29.144793,
     "iso:country":"UK",
+    "lbl:bbox":"29.124793,45.996068,29.164793,46.036068",
     "lbl:latitude":46.016068,
     "lbl:longitude":29.144793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.016068,
     "mps:longitude":29.144793,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u0646\u0648"
     ],
@@ -232,7 +236,7 @@
     "name:ukr_x_variant":[
         "\u0420\u0456\u0432\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuporan"
     ],
     "name:urd_x_preferred":[
@@ -272,7 +276,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1511,
     "wof:belongsto":[
         102191581,
@@ -284,7 +288,7 @@
     "wof:concordances":{
         "gn:id":695370,
         "gp:id":932925,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q156739"
     },
     "wof:country":"UK",
@@ -299,7 +303,7 @@
         }
     ],
     "wof:id":101858567,
-    "wof:lastmodified":1563317797,
+    "wof:lastmodified":1566595787,
     "wof:name":"\u0420\u0456\u0432\u043d\u0435",
     "wof:parent_id":102087949,
     "wof:placetype":"locality",

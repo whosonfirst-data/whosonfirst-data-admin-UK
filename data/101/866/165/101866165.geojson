@@ -11,12 +11,16 @@
     "geom:longitude":28.887871,
     "gn:population":4000,
     "iso:country":"UK",
+    "lbl:bbox":"28.867871,48.015889,28.907871,48.055889",
     "lbl:latitude":48.035889,
     "lbl:longitude":28.887871,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.035889,
     "mps:longitude":28.887871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0647\u0646\u064a\u062a\u0643\u064a\u0641\u060c \u0623\u0648\u062f\u064a\u0633\u0643\u0627"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0433\u043d\u0456\u0442\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Zagnitkiv"
-    ],
     "name:zho_x_preferred":[
         "\u624e\u683c\u5c3c\u7279\u57fa\u592b"
     ],
@@ -75,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +88,7 @@
     "wof:concordances":{
         "gn:id":687901,
         "gp:id":939432,
-        "qs:id":128168,
+        "qs_pg:id":128168,
         "wd:id":"Q703597"
     },
     "wof:country":"UK",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":101866165,
-    "wof:lastmodified":1563317786,
+    "wof:lastmodified":1566595782,
     "wof:name":"\u0417\u0430\u0433\u043d\u0456\u0442\u043a\u0456\u0432",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

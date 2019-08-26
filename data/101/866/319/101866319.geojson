@@ -10,12 +10,16 @@
     "geom:latitude":47.871335,
     "geom:longitude":29.624124,
     "iso:country":"UK",
+    "lbl:bbox":"29.604124,47.851335,29.644124,47.891335",
     "lbl:latitude":47.871335,
     "lbl:longitude":29.624124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.871335,
     "mps:longitude":29.624124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bilyne"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "Bilyne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Belino"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":712619,
         "gp:id":919971,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4081954"
     },
     "wof:country":"UK",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101866319,
-    "wof:lastmodified":1561777887,
+    "wof:lastmodified":1566595784,
     "wof:name":"\u0411\u0456\u043b\u0438\u043d\u0435",
     "wof:parent_id":102088151,
     "wof:placetype":"locality",

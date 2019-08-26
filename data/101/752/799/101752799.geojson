@@ -13,6 +13,8 @@
     "iso:country":"UK",
     "lbl:latitude":46.458713,
     "lbl:longitude":30.728374,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":46.458713,
     "mps:longitude":30.728374,
     "mz:hierarchy_label":1,
@@ -374,9 +376,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0435\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Odessa"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u062f\u06cc\u0633\u0627"
     ],
@@ -519,7 +518,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":40.0,
     "wd:latitude":46.485722,
@@ -535,7 +534,7 @@
     "wof:concordances":{
         "gn:id":698740,
         "gp:id":929398,
-        "qs:id":1028490,
+        "qs_pg:id":1028490,
         "wd:id":"Q1874",
         "wk:page":"Odessa"
     },
@@ -551,7 +550,7 @@
         }
     ],
     "wof:id":101752799,
-    "wof:lastmodified":1563317774,
+    "wof:lastmodified":1566595777,
     "wof:megacity":1,
     "wof:name":"\u041e\u0434\u0435\u0441\u0430",
     "wof:parent_id":1108730629,
