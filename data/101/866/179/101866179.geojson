@@ -11,12 +11,16 @@
     "geom:longitude":29.3462,
     "gn:population":2530,
     "iso:country":"UK",
+    "lbl:bbox":"29.3262,47.862431,29.3662,47.902431",
     "lbl:latitude":47.882431,
     "lbl:longitude":29.3462,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.882431,
     "mps:longitude":29.3462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043b\u043e\u0431\u0438\u0434\u043a\u0430"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_variant":[
         "Slobidka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Slobodka"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":693510,
         "gp:id":934267,
-        "qs:id":128282,
+        "qs_pg:id":128282,
         "wd:id":"Q945397"
     },
     "wof:country":"UK",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":101866179,
-    "wof:lastmodified":1563317789,
+    "wof:lastmodified":1566595784,
     "wof:name":"\u0421\u043b\u043e\u0431\u0456\u0434\u043a\u0430",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

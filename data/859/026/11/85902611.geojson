@@ -13,8 +13,10 @@
     "gn:longitude":34.11079,
     "gn:population":358108,
     "iso:country":"UK",
+    "lbl:bbox":"34.094896,44.952744,34.104896,44.962744",
     "lbl:latitude":44.957744,
     "lbl:longitude":34.099896,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.957744,
     "mps:longitude":34.099896,
     "mz:hierarchy_label":0,
@@ -320,9 +322,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Ak-Mechet"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0645\u0641\u0631\u0648\u067e\u0648\u0644"
     ],
@@ -375,7 +374,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1159339547,
@@ -391,7 +390,6 @@
     "wof:concordances":{
         "gn:id":693805,
         "gp:id":915458,
-        "qs:id":492538,
         "qs_pg:id":492538,
         "wd:id":"Q19566",
         "wk:page":"Simferopol"
@@ -420,7 +418,7 @@
         }
     ],
     "wof:id":85902611,
-    "wof:lastmodified":1563317771,
+    "wof:lastmodified":1566595776,
     "wof:name":"Ak-Mechet",
     "wof:parent_id":101752789,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":47.938903,
     "geom:longitude":23.890686,
     "iso:country":"UK",
+    "lbl:bbox":"23.885686,47.933903,23.895686,47.943903",
     "lbl:latitude":47.938903,
     "lbl:longitude":23.890686,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.940456,
     "mps:longitude":23.889727,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:rum_x_colloquial":[
         "Dealu Cetatii"
-    ],
-    "name:unk_x_variant":[
-        "Dealu Cet\u0103\u021bii"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -56,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101833687,
@@ -82,7 +81,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561777884,
+    "wof:lastmodified":1566595776,
     "wof:name":"Dealu Cet\u0103\u021bii",
     "wof:parent_id":101833687,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000779,
-    "geom:area_square_m":6657102.717671,
+    "geom:area_square_m":6657102.717674,
     "geom:bbox":"30.639366,46.283051,30.680695,46.3210415",
     "geom:latitude":46.30397,
     "geom:longitude":30.655582,
@@ -13,6 +13,8 @@
     "iso:country":"UK",
     "lbl:latitude":46.304339,
     "lbl:longitude":30.655267,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":46.304339,
     "mps:longitude":30.655267,
     "mz:hierarchy_label":1,
@@ -24,7 +26,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043b\u0456\u0447\u0456\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il\u2019ich\u00ebvsk"
     ],
     "ne:ADM0CAP":0.0,
@@ -136,7 +138,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -148,7 +150,7 @@
     "wof:concordances":{
         "gn:id":707688,
         "gp:id":921052,
-        "qs:id":128713
+        "qs_pg:id":128713
     },
     "wof:country":"UK",
     "wof:geomhash":"e7678ea8403dcbfce5def8ae0c7150d2",
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101752797,
-    "wof:lastmodified":1505337733,
+    "wof:lastmodified":1566595777,
     "wof:name":"\u0406\u043b\u043b\u0456\u0447\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730699,
     "wof:placetype":"locality",

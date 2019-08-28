@@ -10,12 +10,16 @@
     "geom:latitude":46.540875,
     "geom:longitude":30.619359,
     "iso:country":"UK",
+    "lbl:bbox":"30.599359,46.520875,30.639359,46.560875",
     "lbl:latitude":46.540875,
     "lbl:longitude":30.619359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.540875,
     "mps:longitude":30.619359,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Odes'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":927842,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UK",
     "wof:geomhash":"4484527f40cc23f8daf02d011325d0be",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101865359,
-    "wof:lastmodified":1544748005,
+    "wof:lastmodified":1566595807,
     "wof:name":"\u041d\u0435\u0440\u0443\u0431\u0430\u0439\u0441\u044c\u043a\u0435",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

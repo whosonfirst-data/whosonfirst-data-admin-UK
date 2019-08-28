@@ -10,19 +10,23 @@
     "geom:latitude":47.827051,
     "geom:longitude":29.738827,
     "iso:country":"UK",
+    "lbl:bbox":"29.718827,47.807051,29.758827,47.847051",
     "lbl:latitude":47.827051,
     "lbl:longitude":29.738827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.827051,
     "mps:longitude":29.738827,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Pasytsely"
     ],
     "name:ukr_x_variant":[
         "\u041f\u0430\u0441\u0438\u0446\u0435\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Positsely"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":697924,
         "gp:id":936116,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UK",
     "wof:geomhash":"2adf6cfb60f25067282a378581570347",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101866317,
-    "wof:lastmodified":1544748538,
+    "wof:lastmodified":1566595784,
     "wof:name":"\u041f\u0430\u0441\u0438\u0446\u0435\u043b\u0438",
     "wof:parent_id":102088151,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":29.463649,
     "gn:population":5461,
     "iso:country":"UK",
+    "lbl:bbox":"29.443649,47.517102,29.483649,47.557102",
     "lbl:latitude":47.537102,
     "lbl:longitude":29.463649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.537102,
     "mps:longitude":29.463649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041e\u043a\u043d\u044b"
     ],
@@ -85,9 +89,6 @@
         "Krasni Okny",
         "\u041e\u043a\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Okny"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u514b\u5c3c"
     ],
@@ -110,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +123,7 @@
     "wof:concordances":{
         "gn:id":860012,
         "gp:id":924046,
-        "qs:id":554566,
+        "qs_pg:id":554566,
         "wd:id":"Q1786696"
     },
     "wof:country":"UK",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":101865611,
-    "wof:lastmodified":1563317835,
+    "wof:lastmodified":1566595802,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0456 \u041e\u043a\u043d\u0438",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

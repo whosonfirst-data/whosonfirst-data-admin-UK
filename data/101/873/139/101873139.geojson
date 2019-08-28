@@ -10,12 +10,16 @@
     "geom:latitude":47.927946,
     "geom:longitude":29.674868,
     "iso:country":"UK",
+    "lbl:bbox":"29.654868,47.907946,29.694868,47.947946",
     "lbl:latitude":47.927946,
     "lbl:longitude":29.674868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.927946,
     "mps:longitude":29.674868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bendsary"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0434\u0437\u0430\u0440\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Bendzari"
     ],
     "name:zho_x_preferred":[
         "\u908a\u624e\u91cc"
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":101873139,
-    "wof:lastmodified":1561777885,
+    "wof:lastmodified":1566595779,
     "wof:name":"\u0411\u0435\u043d\u0434\u0437\u0430\u0440\u0438",
     "wof:parent_id":102088151,
     "wof:placetype":"locality",

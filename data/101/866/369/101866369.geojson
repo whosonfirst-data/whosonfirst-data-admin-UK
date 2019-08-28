@@ -10,12 +10,16 @@
     "geom:latitude":48.06278,
     "geom:longitude":30.139002,
     "iso:country":"UK",
+    "lbl:bbox":"30.119002,48.04278,30.159002,48.08278",
     "lbl:latitude":48.06278,
     "lbl:longitude":30.139002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.06278,
     "mps:longitude":30.139002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Poljanezke"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polyanetskoye"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":696607,
         "gp:id":924355,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4371479"
     },
     "wof:country":"UK",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101866369,
-    "wof:lastmodified":1563317787,
+    "wof:lastmodified":1566595782,
     "wof:name":"\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c\u043a\u0435",
     "wof:parent_id":102088165,
     "wof:placetype":"locality",

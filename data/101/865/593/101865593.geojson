@@ -10,12 +10,16 @@
     "geom:latitude":47.237722,
     "geom:longitude":29.570074,
     "iso:country":"UK",
+    "lbl:bbox":"29.550074,47.217722,29.590074,47.257722",
     "lbl:latitude":47.237722,
     "lbl:longitude":29.570074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.237722,
     "mps:longitude":29.570074,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dolynske"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pavlovka"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":193,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":617618,
         "gp:id":480954,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4165026"
     },
     "wof:country":"UK",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101865593,
-    "wof:lastmodified":1563317829,
+    "wof:lastmodified":1566595800,
     "wof:name":"\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088023,
     "wof:placetype":"locality",

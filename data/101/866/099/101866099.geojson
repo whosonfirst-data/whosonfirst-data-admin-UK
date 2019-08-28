@@ -10,12 +10,16 @@
     "geom:latitude":47.708989,
     "geom:longitude":29.859486,
     "iso:country":"UK",
+    "lbl:bbox":"29.839486,47.688989,29.879486,47.728989",
     "lbl:latitude":47.708989,
     "lbl:longitude":29.859486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.708989,
     "mps:longitude":29.859486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u043d\u0434\u0440\u0430\u0431\u0443\u0440\u0438"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u0413\u0430\u043d\u0434\u0440\u0430\u0431\u0443\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gondrabura"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":708995,
         "gp:id":919819,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q3622470"
     },
     "wof:country":"UK",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101866099,
-    "wof:lastmodified":1561777886,
+    "wof:lastmodified":1566595781,
     "wof:name":"\u0413\u0430\u043d\u0434\u0440\u0430\u0431\u0443\u0440\u0438",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"29.953429,47.710371,29.953429,47.710371",
     "geom:latitude":47.710371,
     "geom:longitude":29.953429,
-    "geonames:id":"713499,713500",
+    "gn:id":"713499,713500",
     "iso:country":"UK",
+    "lbl:bbox":"29.933429,47.690371,29.973429,47.730371",
     "lbl:latitude":47.710371,
     "lbl:longitude":29.953429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.710371,
     "mps:longitude":29.953429,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646\u064a\u0641"
     ],
@@ -120,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":282,
     "wof:belongsto":[
         102191581,
@@ -131,7 +135,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":915712,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q485891"
     },
     "wof:country":"UK",
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":101866101,
-    "wof:lastmodified":1563317787,
+    "wof:lastmodified":1566595783,
     "wof:name":"\u0410\u043d\u0430\u043d\u044c\u0457\u0432",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"UK",
     "lbl:latitude":47.731082,
     "lbl:longitude":29.558509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.731082,
     "mps:longitude":29.558509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Velk\u00fd Kujalnik"
     ],
@@ -50,7 +53,7 @@
         "Kuyal\u2019nyk",
         "\u041a\u0443\u044f\u043b\u044c\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuyal\u2019nik"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +78,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":208,
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":703502,
         "gp:id":923801,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4250442"
     },
     "wof:country":"UK",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101876487,
-    "wof:lastmodified":1563317826,
+    "wof:lastmodified":1566595799,
     "wof:name":"\u041a\u0443\u044f\u043b\u044c\u043d\u0438\u043a",
     "wof:parent_id":102088079,
     "wof:placetype":"locality",

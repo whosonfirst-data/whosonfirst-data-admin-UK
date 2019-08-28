@@ -10,12 +10,16 @@
     "geom:latitude":46.313858,
     "geom:longitude":29.949001,
     "iso:country":"UK",
+    "lbl:bbox":"29.929001,46.293858,29.969001,46.333858",
     "lbl:latitude":46.313858,
     "lbl:longitude":29.949001,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.313858,
     "mps:longitude":29.949001,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrivka"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pietroasa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":697392,
         "gp:id":930722,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4361001"
     },
     "wof:country":"UK",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101865287,
-    "wof:lastmodified":1563317834,
+    "wof:lastmodified":1566595802,
     "wof:name":"\u041f\u0435\u0442\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102087951,
     "wof:placetype":"locality",
