@@ -1,10 +1,12 @@
 {
   "id": 85902621,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-uk",
+  "properties": {
+    "src:alt_label":"quattroshapes",
     "src:geom":"quattroshapes",
     "wof:geomhash":"726d029adb460525e8fecfc2032dfdf5",
-    "wof:id":85902621
+    "wof:id":85902621,
+    "wof:repo":"whosonfirst-data-admin-uk"
 },
   "bbox": [
     30.54572509765018,
