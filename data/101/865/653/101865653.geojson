@@ -95,6 +95,9 @@
         "wk:page":"Petrovirivka"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"221f4f92999e70ccb32f7e189342a494",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101865653,
-    "wof:lastmodified":1566595811,
+    "wof:lastmodified":1582314098,
     "wof:name":"\u0416\u043e\u0432\u0442\u0435\u043d\u044c",
     "wof:parent_id":102088047,
     "wof:placetype":"locality",

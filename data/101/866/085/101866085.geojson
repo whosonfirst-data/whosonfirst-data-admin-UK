@@ -53,6 +53,9 @@
         "gp:id":925308
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2ed2d0685d2c7076aa90933fdb9b0136",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101866085,
-    "wof:lastmodified":1566595781,
+    "wof:lastmodified":1582314091,
     "wof:name":"\u041b\u0438\u043f\u0435\u0446\u044c\u043a\u0435",
     "wof:parent_id":102088079,
     "wof:placetype":"locality",

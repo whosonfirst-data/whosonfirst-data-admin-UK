@@ -80,6 +80,9 @@
         "wd:id":"Q4384871"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b39cb4ee462672be134e150d1089cb5",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566595776,
+    "wof:lastmodified":1582314090,
     "wof:name":"Pushcha-Voditsa",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

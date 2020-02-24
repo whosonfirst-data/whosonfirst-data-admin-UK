@@ -145,6 +145,9 @@
         "wk:page":"Tatarbunary"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f44512ef4824c10e2dbdea459e985c2",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101858461,
-    "wof:lastmodified":1566595796,
+    "wof:lastmodified":1582314095,
     "wof:name":"\u0422\u0430\u0442\u0430\u0440\u0431\u0443\u043d\u0430\u0440\u0438",
     "wof:parent_id":102087929,
     "wof:placetype":"locality",

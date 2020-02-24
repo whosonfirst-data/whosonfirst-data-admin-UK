@@ -184,6 +184,9 @@
         "wk:page":"Balta, Odessa Oblast"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1051de6d14a896a99ad447f2ebca3ac3",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":101873955,
-    "wof:lastmodified":1566595778,
+    "wof:lastmodified":1582314091,
     "wof:name":"\u0411\u0430\u043b\u0442\u0430",
     "wof:parent_id":102088151,
     "wof:placetype":"locality",

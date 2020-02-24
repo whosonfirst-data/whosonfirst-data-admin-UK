@@ -395,6 +395,10 @@
         "wk:page":"Simferopol"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b84a8590e68a65af9cd64c5ac93be773",
     "wof:hierarchy":[
         {
@@ -418,7 +422,7 @@
         }
     ],
     "wof:id":85902611,
-    "wof:lastmodified":1566595776,
+    "wof:lastmodified":1582314090,
     "wof:name":"Ak-Mechet",
     "wof:parent_id":101752789,
     "wof:placetype":"neighbourhood",

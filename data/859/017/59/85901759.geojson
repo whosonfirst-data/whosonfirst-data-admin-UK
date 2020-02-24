@@ -67,6 +67,9 @@
         "gp:id":871089
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bea2d571ef404bb22a20d669ba6f75aa",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1566595776,
+    "wof:lastmodified":1582314090,
     "wof:name":"Dealu Cet\u0103\u021bii",
     "wof:parent_id":101833687,
     "wof:placetype":"neighbourhood",

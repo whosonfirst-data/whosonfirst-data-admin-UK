@@ -122,6 +122,9 @@
         "wk:page":"Zakharivka"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"970cf59ae36ffb3568e165704aea3585",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101865597,
-    "wof:lastmodified":1566595807,
+    "wof:lastmodified":1582314097,
     "wof:name":"\u0424\u0440\u0443\u043d\u0437\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088023,
     "wof:placetype":"locality",
