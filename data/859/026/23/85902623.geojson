@@ -92,6 +92,9 @@
         "wd:id":"Q4403870"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d54be95a71cec2e091bdf213af1d2556",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566595777,
+    "wof:lastmodified":1582314090,
     "wof:name":"Varvarovka",
     "wof:parent_id":101752809,
     "wof:placetype":"neighbourhood",

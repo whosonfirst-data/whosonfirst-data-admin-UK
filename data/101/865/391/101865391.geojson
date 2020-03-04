@@ -139,6 +139,9 @@
         "wk:page":"Teplodar"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c278aa5a5470a039c89be11113500d4a",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101865391,
-    "wof:lastmodified":1566595800,
+    "wof:lastmodified":1582314095,
     "wof:name":"\u0422\u0435\u043f\u043b\u043e\u0434\u0430\u0440",
     "wof:parent_id":1108730693,
     "wof:placetype":"locality",

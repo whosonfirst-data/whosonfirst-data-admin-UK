@@ -103,6 +103,9 @@
         "wk:page":"Lymanske (urban-type settlement)"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"225cc03ac8a426454ff65fb7986640cf",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101865407,
-    "wof:lastmodified":1566595804,
+    "wof:lastmodified":1582314096,
     "wof:name":"\u041b\u0438\u043c\u0430\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102087985,
     "wof:placetype":"locality",

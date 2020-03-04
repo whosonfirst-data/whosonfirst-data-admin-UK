@@ -121,6 +121,9 @@
         "wd:id":"Q2652157"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c66d8fae255c2a102fea5f87c7159fc",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865511,
-    "wof:lastmodified":1566595806,
+    "wof:lastmodified":1582314097,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",

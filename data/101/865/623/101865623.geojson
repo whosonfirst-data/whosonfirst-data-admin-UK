@@ -156,6 +156,9 @@
         "wk:page":"Berezivka"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"153ab4e71bb9966eb762e99412f8069f",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101865623,
-    "wof:lastmodified":1566595809,
+    "wof:lastmodified":1582314097,
     "wof:name":"\u0411\u0435\u0440\u0435\u0437\u0456\u0432\u043a\u0430",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

@@ -127,6 +127,9 @@
         "wk:page":"Savran, Odessa Oblast"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0915188b08acb7c5cb3855856f002e71",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101866375,
-    "wof:lastmodified":1566595784,
+    "wof:lastmodified":1582314092,
     "wof:name":"\u0421\u0430\u0432\u0440\u0430\u043d\u044c",
     "wof:parent_id":102088165,
     "wof:placetype":"locality",

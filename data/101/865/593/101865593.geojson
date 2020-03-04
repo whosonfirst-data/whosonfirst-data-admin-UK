@@ -82,6 +82,9 @@
         "wd:id":"Q4165026"
     },
     "wof:country":"UK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"356ad38aead0784ecd1266f51d3e885e",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101865593,
-    "wof:lastmodified":1566595800,
+    "wof:lastmodified":1582314095,
     "wof:name":"\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088023,
     "wof:placetype":"locality",
